@@ -20,6 +20,7 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 
 </div>
 
+
 <br/>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
@@ -146,10 +147,13 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
   </a>
 </p>
 
+
+
 <br/>
 
 <div align="center">
 🌟 Proyectos Destacados
+---
 </div>
 
 ### 🎯 PROVIDENCE Fitness:API (Gestion de Turnos)
@@ -159,18 +163,25 @@ Plataforma integral para gestión de gimnasio multiactividad con reservas, pagos
 - **Integraciones:** MercadoPago (pagos), Nodemailer + node-cron (notificaciones automáticas), Cloudinary (imágenes), Google Maps, Swagger
 - **Frontend:** Contribuí desarrollando formularios de registro/login con validaciones en tiempo real, interfaz de reservas del admin y exploración de actividades.
 
+Link: https://github.com/ProvidenceAPI
+
 ### 🦷 Sistema de Gestión Odontológica (Gestion de Turnos)
 Sistema de gestión de turnos para consultorio dental con arquitectura cliente-servidor
 - **Stack:** Node.js, Express, PostgreSQL, TypeORM, React
 - Gestión de usuarios, credenciales y citas con validaciones robustas
 - Sistema de estados de turnos (activo/cancelado)
 
+Link: https://github.com/pi-rym/PM3-LACanonNieto
+
 ### 🛒 Plataforma para comprar Peliculas (E-Commerce)
 Plataforma de comercio electrónico con arquitectura modular escalable
 - **Stack:** NestJS, PostgreSQL, TypeORM, React
 - Autenticación JWT con roles, gestión de productos/categorías/órdenes
 - Integración con Cloudinary y documentación con Swagger
+
 Link: https://github.com/pi-rym/PM4BE-LACanonNieto
+
+**Proyectos desarrollados durante el bootcamp de Henry**
 
 <br/>
 
