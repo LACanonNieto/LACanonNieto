@@ -23,7 +23,6 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 <br/>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
-<hr>
 <br/>
 <p align="center">
   <!-- Lenguajes de Programación - Primera Fila -->
@@ -150,7 +149,6 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 <br/>
 
 <h2 align="center">🌟 Proyectos Destacados</h2>
-<hr>
 
 ### 🎯 PROVIDENCE Fitness:API (Gestion de Turnos)
 
@@ -188,7 +186,6 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 <br/>
 
 <h2 align="center">📫 ¿Cómo contactarme?</h2>
-<hr>
 
 <a href="https://www.linkedin.com/in/luzadrianacanon/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" 
@@ -197,7 +194,20 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
        height="50"/>
 </a>
 
-📧 Email: luzadca@hotmail.com / luzadca@gmail.com
+<a href="mailto:luzadca@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" 
+       alt="gmail" 
+       width="50" 
+       height="50"/>
+</a>
+
+<a href="mailto:luzadca@hotmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" 
+       alt="outlook" 
+       width="50" 
+       height="50"/>
+</a>
+
 
 </div>
 
