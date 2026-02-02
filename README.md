@@ -10,7 +10,7 @@
       </p>
     </td>
     <td align="center" style="border: none;">
-      <img src="./assets/my-image.png" width="180"/>
+      <img src="./assets/Anime de mi.png" width="180"/>
     </td>
   </tr>
 </table>
