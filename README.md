@@ -152,38 +152,25 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 🌟 Proyectos Destacados
 </div>
 
-### 🎯 PROVIDENCE Fitness:API
-Plataforma integral para la gestión completa de gimnasio multiactividad con sistema de reservas, pagos y panel administrativo
-- 🔹 **Backend:** API RESTful con NestJS, PostgreSQL y TypeORM
-- 🔹 **Autenticación:** JWT + Google OAuth con sistema de roles (User, Admin, SuperAdmin)
-- 🔹 **Gestión de actividades:** CRUD completo con control de cupos, horarios y precios
-- 🔹 **Sistema de reservas:** Validación de overlaps, control de capacidad y cancelaciones
-- 🔹 **Pagos mensuales:** Integración con MercadoPago por actividad
-- 🔹 **Notificaciones automáticas:** Confirmaciones, recordatorios y alertas de vencimiento con Nodemailer y node-cron
-- 🔹 **Panel administrativo:** Dashboard con métricas, gestión de usuarios y calendario de reservas
-- 🔹 **Frontend:** Ayude a desarrollar componentes con React/Next.js y Tailwind CSS para la interfaz de usuario, formularios de registro/login con validaciones en tiempo real, sistema de notificaciones visuales, y secciones de exploración de actividades y de Validacione e interfaz de reservas del Admin.
-- 🔹 **Integraciones:** Cloudinary (imágenes), Google Maps (ubicación), Swagger (documentación)
+### 🎯 PROVIDENCE Fitness:API (Gestion de Turnos)
+Plataforma integral para gestión de gimnasio multiactividad con reservas, pagos mensuales por actividad y panel administrativo
+- **Stack:** NestJS, PostgreSQL, TypeORM, React/Next.js, Tailwind CSS
+- **Backend:** API RESTful con autenticación JWT + Google OAuth, CRUD de actividades con control de cupos y horarios, sistema de reservas con validación de overlaps
+- **Integraciones:** MercadoPago (pagos), Nodemailer + node-cron (notificaciones automáticas), Cloudinary (imágenes), Google Maps, Swagger
+- **Frontend:** Contribuí desarrollando formularios de registro/login con validaciones en tiempo real, interfaz de reservas del admin y exploración de actividades.
 
-### 🦷 Sistema de Gestión Odontológica
+### 🦷 Sistema de Gestión Odontológica (Gestion de Turnos)
+Sistema de gestión de turnos para consultorio dental con arquitectura cliente-servidor
+- **Stack:** Node.js, Express, PostgreSQL, TypeORM, React
+- Gestión de usuarios, credenciales y citas con validaciones robustas
+- Sistema de estados de turnos (activo/cancelado)
 
-Sistema completo de gestión de turnos para consultorio dental con arquitectura cliente-servidor
-
-- 🔹 Backend con Node.js, Express y TypeORM
-- 🔹 Base de datos relacional PostgreSQL
-- 🔹 Gestión de usuarios, credenciales y citas
-- 🔹 Validaciones robustas con class-validator
-- 🔹 Sistema de estado de turnos (activo/cancelado)
-
-### 🛒 E-Commerce Platform
-
+### 🛒 Plataforma para comprar Peliculas (E-Commerce)
 Plataforma de comercio electrónico con arquitectura modular escalable
-
-- 🔹 Backend con NestJS y TypeORM
-- 🔹 Autenticación JWT con sistema de roles (admin/usuario)
-- 🔹 Gestión de productos, categorías y órdenes
-- 🔹 Integración con Cloudinary para imágenes
-- 🔹 Documentación automática con Swagger
-- 🔹 Validaciones con class-validator y pipes globales
+- **Stack:** NestJS, PostgreSQL, TypeORM, React
+- Autenticación JWT con roles, gestión de productos/categorías/órdenes
+- Integración con Cloudinary y documentación con Swagger
+Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 
 <br/>
 
