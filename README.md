@@ -186,6 +186,20 @@ Plataforma integral para gestión de gimnasio multiactividad con reservas, pagos
 
 Link: https://github.com/ProvidenceAPI
 
+### 🛒 E-Commerce de Productos Tecnológicos
+Plataforma de comercio electrónico con arquitectura modular escalable desarrollada durante el bootcamp de Henry
+
+- 🔹 **Backend:** NestJS, TypeScript, PostgreSQL, TypeORM
+- 🔹 **Autenticación:** JWT con bcrypt, sistema de roles (admin/usuario), guards personalizados
+- 🔹 **Funcionalidades:** Gestión de productos, categorías y órdenes, proceso completo de compra
+- 🔹 **Integraciones:** Cloudinary (imágenes), Swagger (documentación API)
+- 🔹 **Validaciones:** Class-validator con pipes globales, DTOs para transferencia de datos
+- 🔹 **Frontend:** React, TypeScript, Tailwind CSS
+- 🔹 **Base de datos:** Diseño relacional con TypeORM, relaciones entre entidades
+
+Link: https://github.com/pi-rym/PM4BE-LACanonNieto
+
+
 ### 🦷 Sistema de Gestión Odontológica (Gestion de Turnos)
 
 Sistema de gestión de turnos para consultorio dental con arquitectura cliente-servidor
@@ -196,15 +210,16 @@ Sistema de gestión de turnos para consultorio dental con arquitectura cliente-s
 
 Link: https://github.com/pi-rym/PM3-LACanonNieto
 
-### 🛒 Plataforma para comprar Peliculas (E-Commerce)
+### 🎬 CINEGO - Catálogo de Películas
+Aplicación web de gestión de catálogo cinematográfico con conexión a base de datos
+- 🔹 **Stack:** Node.js, Express, MongoDB, Mongoose
+- 🔹 **Funcionalidades:** Catálogo completo con información detallada (título, año, director, duración, géneros, rating, póster)
+- 🔹 **CRUD:** Crear, leer y gestionar películas mediante formulario
+- 🔹 **Validaciones:** Frontend y backend para integridad de datos
+- 🔹 **Base de datos:** MongoDB Atlas con almacenamiento persistente
+- 🔹 **Frontend:** HTML5, CSS3, JavaScript vanilla
 
-Plataforma de comercio electrónico con arquitectura modular escalable
-
-- **Stack:** NestJS, PostgreSQL, TypeORM, React
-- Autenticación JWT con roles, gestión de productos/categorías/órdenes
-- Integración con Cloudinary y documentación con Swagger
-
-Link: https://github.com/pi-rym/PM4BE-LACanonNieto
+Link: https://github.com/pi-rym/PM2-LACanonNieto
 
 **Proyectos desarrollados durante el bootcamp de Henry**
 
