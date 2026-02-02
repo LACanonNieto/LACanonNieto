@@ -5,6 +5,7 @@ Full Stack Developer | Backend Specialist
 
 <br/>
 
+<div align="center">
 🚀 Sobre Mí
 
 Soy desarrolladora Full Stack con especialización en Backend Development. Me apasiona crear soluciones escalables y eficientes, trabajando con tecnologías modernas para resolver problemas complejos.
@@ -16,6 +17,7 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 🎯 Especializada en desarrollo backend con enfoque en rendimiento y escalabilidad
 
 💡 Me encanta colaborar en proyectos innovadores
+</div>
 
 <br/>
 
@@ -142,30 +144,45 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
   </a>
 </p>
 
-</div>
+<br/>
 
+<div align="center">
 🌟 Proyectos Destacados
+
 🎯 Turnero - Sistema de Gestión de Turnos
+
 Sistema completo para la gestión de turnos y citas desarrollado con React y Node.js
 
 🔹 API RESTful escalable
+
 🔹 Interfaz intuitiva y responsive
+
 🔹 Sistema de notificaciones en tiempo real
+
 
 📦 [Nombre del Proyecto 2]
 Breve descripción del proyecto
 
 Tecnologías utilizadas
 Características principales
-
-📫 ¿Cómo contactarme?
-<div align="center">
-💼 LinkedIn: Tu Perfil
-📧 Email: tu-email@ejemplo.com
-🐦 Twitter: @tu-usuario
-🌐 Portfolio: tu-portfolio.com
 </div>
 
+<br/>
+
+📫 ¿Cómo contactarme?
+
+<div align="center">
+💼 LinkedIn: Tu Perfil
+
+📧 Email: tu-email@ejemplo.com
+
+🐦 Twitter: @tu-usuario
+
+🌐 Portfolio: tu-portfolio.com
+
+</div>
+
+<br/>
 
 <div align="center">
 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
