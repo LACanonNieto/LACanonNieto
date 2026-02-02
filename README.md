@@ -20,7 +20,6 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 
 </div>
 
-
 <br/>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
@@ -147,17 +146,17 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
   </a>
 </p>
 
-
-
 <br/>
 
 <div align="center">
 🌟 Proyectos Destacados
----
+<hr>
 </div>
 
 ### 🎯 PROVIDENCE Fitness:API (Gestion de Turnos)
+
 Plataforma integral para gestión de gimnasio multiactividad con reservas, pagos mensuales por actividad y panel administrativo
+
 - **Stack:** NestJS, PostgreSQL, TypeORM, React/Next.js, Tailwind CSS
 - **Backend:** API RESTful con autenticación JWT + Google OAuth, CRUD de actividades con control de cupos y horarios, sistema de reservas con validación de overlaps
 - **Integraciones:** MercadoPago (pagos), Nodemailer + node-cron (notificaciones automáticas), Cloudinary (imágenes), Google Maps, Swagger
@@ -166,7 +165,9 @@ Plataforma integral para gestión de gimnasio multiactividad con reservas, pagos
 Link: https://github.com/ProvidenceAPI
 
 ### 🦷 Sistema de Gestión Odontológica (Gestion de Turnos)
+
 Sistema de gestión de turnos para consultorio dental con arquitectura cliente-servidor
+
 - **Stack:** Node.js, Express, PostgreSQL, TypeORM, React
 - Gestión de usuarios, credenciales y citas con validaciones robustas
 - Sistema de estados de turnos (activo/cancelado)
@@ -174,7 +175,9 @@ Sistema de gestión de turnos para consultorio dental con arquitectura cliente-s
 Link: https://github.com/pi-rym/PM3-LACanonNieto
 
 ### 🛒 Plataforma para comprar Peliculas (E-Commerce)
+
 Plataforma de comercio electrónico con arquitectura modular escalable
+
 - **Stack:** NestJS, PostgreSQL, TypeORM, React
 - Autenticación JWT con roles, gestión de productos/categorías/órdenes
 - Integración con Cloudinary y documentación con Swagger
@@ -185,9 +188,11 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 
 <br/>
 
-📫 ¿Cómo contactarme?
-
 <div align="center">
+📫 ¿Cómo contactarme?
+<hr>
+</div>
+
 💼 LinkedIn: Tu Perfil
 
 📧 Email: tu-email@ejemplo.com
