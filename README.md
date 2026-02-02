@@ -189,13 +189,13 @@ Link: https://github.com/ProvidenceAPI
 ### 🛒 E-Commerce de Productos Tecnológicos
 Plataforma de comercio electrónico con arquitectura modular escalable desarrollada durante el bootcamp de Henry
 
-- 🔹 **Backend:** NestJS, TypeScript, PostgreSQL, TypeORM
-- 🔹 **Autenticación:** JWT con bcrypt, sistema de roles (admin/usuario), guards personalizados
-- 🔹 **Funcionalidades:** Gestión de productos, categorías y órdenes, proceso completo de compra
-- 🔹 **Integraciones:** Cloudinary (imágenes), Swagger (documentación API)
-- 🔹 **Validaciones:** Class-validator con pipes globales, DTOs para transferencia de datos
-- 🔹 **Frontend:** React, TypeScript, Tailwind CSS
-- 🔹 **Base de datos:** Diseño relacional con TypeORM, relaciones entre entidades
+- **Backend:** NestJS, TypeScript, PostgreSQL, TypeORM
+- **Autenticación:** JWT con bcrypt, sistema de roles (admin/usuario), guards personalizados
+- **Funcionalidades:** Gestión de productos, categorías y órdenes, proceso completo de compra
+- **Integraciones:** Cloudinary (imágenes), Swagger (documentación API)
+- **Validaciones:** Class-validator con pipes globales, DTOs para transferencia de datos
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Base de datos:** Diseño relacional con TypeORM, relaciones entre entidades
 
 Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 
@@ -203,21 +203,25 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 ### 🦷 Sistema de Gestión Odontológica (Gestion de Turnos)
 
 Sistema de gestión de turnos para consultorio dental con arquitectura cliente-servidor
-
-- **Stack:** Node.js, Express, PostgreSQL, TypeORM, React
-- Gestión de usuarios, credenciales y citas con validaciones robustas
-- Sistema de estados de turnos (activo/cancelado)
+- **Stack:** Node.js, Express, PostgreSQL, TypeORM, React, JavaScript
+- **Backend:** API REST con gestión de usuarios, credenciales encriptadas y administración de citas
+- **Base de datos:** Diseño relacional con PostgreSQL, relaciones entre entidades (Users, Appointments, Credentials)
+- **Autenticación:** Sistema de credenciales con hash de contraseñas
+- **Validaciones:** Class-validator en backend y validaciones en tiempo real en frontend
+- **Sistema de turnos:** Estados (activo/cancelado), validación de horarios, historial completo
+- **Frontend:** React con formularios validados y dashboard para visualización de turnos
+- **Funcionalidades:** Los pacientes reservan/cancelan turnos autónomamente, el personal médico gestiona la agenda completa
 
 Link: https://github.com/pi-rym/PM3-LACanonNieto
 
 ### 🎬 CINEGO - Catálogo de Películas
 Aplicación web de gestión de catálogo cinematográfico con conexión a base de datos
-- 🔹 **Stack:** Node.js, Express, MongoDB, Mongoose
-- 🔹 **Funcionalidades:** Catálogo completo con información detallada (título, año, director, duración, géneros, rating, póster)
-- 🔹 **CRUD:** Crear, leer y gestionar películas mediante formulario
-- 🔹 **Validaciones:** Frontend y backend para integridad de datos
-- 🔹 **Base de datos:** MongoDB Atlas con almacenamiento persistente
-- 🔹 **Frontend:** HTML5, CSS3, JavaScript vanilla
+- **Stack:** Node.js, Express, MongoDB, Mongoose
+- **Funcionalidades:** Catálogo completo con información detallada (título, año, director, duración, géneros, rating, póster)
+- **CRUD:** Crear, leer y gestionar películas mediante formulario
+- **Validaciones:** Frontend y backend para integridad de datos
+- **Base de datos:** MongoDB Atlas con almacenamiento persistente
+- **Frontend:** HTML5, CSS3, JavaScript vanilla
 
 Link: https://github.com/pi-rym/PM2-LACanonNieto
 
