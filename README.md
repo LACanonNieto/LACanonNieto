@@ -1,17 +1,21 @@
-<div style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
-  <table>
+<div style="border: 2px solid #30363d; border-radius: 15px; padding: 30px; background-color: #161b22; margin: 20px auto; max-width: 800px;">
+  <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <tr>
-      <td width="70%" valign="top">
-        <h1>👋 ¡Hola! Soy Luz Adriana Cañón</h1>
-        <h3>Full Stack Developer | Backend Specialist</h3>
-        <br/>
+      <td align="left" valign="middle" style="border: none; padding-right: 30px; width: 65%;">
+        <h1 style="font-size: 42px; margin-bottom: 8px; color: #58a6ff;">
+          👋 ¡Hola! / Hi!... 
+          <br>
+          Soy Luz Adriana
+        </h1>
+        <p style="font-size: 20px; margin-top: 0; color: #c9d1d9;">
+          Full Stack Developer<br/>
+          <strong style="color: #8b949e;">Backend Specialist</strong>
+        </p>
       </td>
-      <td width="30%" align="center" valign="middle">
-        <img src="assets/Anime de mi.png" 
-             alt="Luz Adriana" 
-             width="200" 
-             height="200" 
-             style="border-radius: 50%; border: 3px solid #58a6ff;"/>
+      <td align="center" valign="middle" style="border: none; width: 35%;">
+        <img src="./assets/Anime de mi.png" 
+             width="180" 
+             style="border-radius: 50%; border: 4px solid #58a6ff;"/>
       </td>
     </tr>
   </table>
