@@ -90,7 +90,7 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
          height="50"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+    <img src="https://skillicons.dev/icons?i=express" express-original.svg" 
          alt="express" 
          width="50" 
          height="50"/>
@@ -149,10 +149,8 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 
 <br/>
 
-
 <h2 align="center">🌟 Proyectos Destacados</h2>
 <hr>
-
 
 ### 🎯 PROVIDENCE Fitness:API (Gestion de Turnos)
 
@@ -192,7 +190,6 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 <h2 align="center">📫 ¿Cómo contactarme?</h2>
 <hr>
 
-
 💼 LinkedIn: Tu Perfil
 
 📧 Email: tu-email@ejemplo.com
@@ -210,4 +207,5 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ⭐️ From LACanonNieto
+
 </div>
