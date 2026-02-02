@@ -17,6 +17,7 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 🎯 Especializada en desarrollo backend con enfoque en rendimiento y escalabilidad
 
 💡 Me encanta colaborar en proyectos innovadores
+
 </div>
 
 <br/>
@@ -25,18 +26,6 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 <br/>
 <p align="center">
   <!-- Lenguajes de Programación - Primera Fila -->
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-         alt="c" 
-         width="50" 
-         height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-         alt="c++" 
-         width="50" 
-         height="50"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
          alt="javascript" 
@@ -50,23 +39,12 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
          height="50"/>
   </a>
 </p>
+
 <p align="center">
   <!-- Frontend - Segunda Fila -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
          alt="react" 
-         width="50" 
-         height="50"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
-         alt="nextjs" 
-         width="50" 
-         height="50"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-         alt="redux" 
          width="50" 
          height="50"/>
   </a>
@@ -82,19 +60,20 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
          width="50" 
          height="50"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" 
-         alt="bootstrap" 
-         width="50" 
-         height="50"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
          alt="tailwind" 
          width="50" 
          height="50"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" 
+         alt="vite" 
+         width="50" 
+         height="50"/>
+  </a>
 </p>
+
 <p align="center">
   <!-- Backend - Tercera Fila -->
   <a href="https://nodejs.org" target="_blank">
@@ -103,9 +82,25 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
          width="50" 
          height="50"/>
   </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" 
+         alt="nestjs" 
+         width="50" 
+         height="50"/>
+  </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
          alt="express" 
+         width="50" 
+         height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Bases de Datos - Cuarta Fila -->
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
+         alt="postgresql" 
          width="50" 
          height="50"/>
   </a>
@@ -116,8 +111,9 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
          height="50"/>
   </a>
 </p>
+
 <p align="center">
-  <!-- Tools - Cuarta Fila -->
+  <!-- Tools - Quinta Fila -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
          alt="git" 
@@ -136,9 +132,15 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
          width="50" 
          height="50"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-         alt="linux" 
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+         alt="postman" 
+         width="50" 
+         height="50"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" 
+         alt="swagger" 
          width="50" 
          height="50"/>
   </a>
@@ -148,24 +150,40 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 
 <div align="center">
 🌟 Proyectos Destacados
-
-🎯 Turnero - Sistema de Gestión de Turnos
-
-Sistema completo para la gestión de turnos y citas desarrollado con React y Node.js
-
-🔹 API RESTful escalable
-
-🔹 Interfaz intuitiva y responsive
-
-🔹 Sistema de notificaciones en tiempo real
-
-
-📦 [Nombre del Proyecto 2]
-Breve descripción del proyecto
-
-Tecnologías utilizadas
-Características principales
 </div>
+
+### 🎯 PROVIDENCE Fitness:API
+Plataforma integral para la gestión completa de gimnasio multiactividad con sistema de reservas, pagos y panel administrativo
+- 🔹 **Backend:** API RESTful con NestJS, PostgreSQL y TypeORM
+- 🔹 **Autenticación:** JWT + Google OAuth con sistema de roles (User, Admin, SuperAdmin)
+- 🔹 **Gestión de actividades:** CRUD completo con control de cupos, horarios y precios
+- 🔹 **Sistema de reservas:** Validación de overlaps, control de capacidad y cancelaciones
+- 🔹 **Pagos mensuales:** Integración con MercadoPago por actividad
+- 🔹 **Notificaciones automáticas:** Confirmaciones, recordatorios y alertas de vencimiento con Nodemailer y node-cron
+- 🔹 **Panel administrativo:** Dashboard con métricas, gestión de usuarios y calendario de reservas
+- 🔹 **Frontend:** Ayude a desarrollar componentes con React/Next.js y Tailwind CSS para la interfaz de usuario, formularios de registro/login con validaciones en tiempo real, sistema de notificaciones visuales, y secciones de exploración de actividades y de Validacione e interfaz de reservas del Admin.
+- 🔹 **Integraciones:** Cloudinary (imágenes), Google Maps (ubicación), Swagger (documentación)
+
+### 🦷 Sistema de Gestión Odontológica
+
+Sistema completo de gestión de turnos para consultorio dental con arquitectura cliente-servidor
+
+- 🔹 Backend con Node.js, Express y TypeORM
+- 🔹 Base de datos relacional PostgreSQL
+- 🔹 Gestión de usuarios, credenciales y citas
+- 🔹 Validaciones robustas con class-validator
+- 🔹 Sistema de estado de turnos (activo/cancelado)
+
+### 🛒 E-Commerce Platform
+
+Plataforma de comercio electrónico con arquitectura modular escalable
+
+- 🔹 Backend con NestJS y TypeORM
+- 🔹 Autenticación JWT con sistema de roles (admin/usuario)
+- 🔹 Gestión de productos, categorías y órdenes
+- 🔹 Integración con Cloudinary para imágenes
+- 🔹 Documentación automática con Swagger
+- 🔹 Validaciones con class-validator y pipes globales
 
 <br/>
 
