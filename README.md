@@ -20,6 +20,29 @@
 </tr>
 </table>
 
+<div align="center" style="border-top: 2px solid #30363d; border-bottom: 2px solid #30363d; padding: 30px; background-color: #161b22; margin: 20px 0;">
+  <table width="100%" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" width="33%" style="border: none;">
+        <h2 style="color: #ff6b9d; font-size: 36px; margin: 0;">1,234</h2>
+        <p style="color: #ff6b9d; font-size: 16px; margin: 5px 0;">Total Contributions</p>
+        <p style="color: #8b949e; font-size: 13px; margin: 0;">2024 - Present</p>
+      </td>
+      <td align="center" width="34%" style="border-left: 1px solid #30363d; border-right: 1px solid #30363d;">
+        <h2 style="color: #58a6ff; font-size: 48px; margin: 0;">10</h2>
+        <p style="color: #58a6ff; font-size: 16px; margin: 5px 0;">Current Streak</p>
+        <p style="color: #8b949e; font-size: 13px; margin: 0;">Jan 20 - Jan 30</p>
+      </td>
+      <td align="center" width="33%" style="border: none;">
+        <h2 style="color: #ff6b9d; font-size: 36px; margin: 0;">45</h2>
+        <p style="color: #ff6b9d; font-size: 16px; margin: 5px 0;">Longest Streak</p>
+        <p style="color: #8b949e; font-size: 13px; margin: 0;">Nov 2024</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <br/>
 
 <div align="center">
