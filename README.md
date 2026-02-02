@@ -23,6 +23,7 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 <br/>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
+<hr>
 <br/>
 <p align="center">
   <!-- Lenguajes de Programación - Primera Fila -->
@@ -121,7 +122,7 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
          height="50"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+    <img src="https://skillicons.dev/icons?i=github" github-original.svg" 
          alt="github" 
          width="50" 
          height="50"/>
@@ -148,10 +149,10 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 
 <br/>
 
-<div align="center">
-🌟 Proyectos Destacados
+
+<h2 align="center">🌟 Proyectos Destacados</h2>
 <hr>
-</div>
+
 
 ### 🎯 PROVIDENCE Fitness:API (Gestion de Turnos)
 
@@ -188,10 +189,9 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 
 <br/>
 
-<div align="center">
-📫 ¿Cómo contactarme?
+<h2 align="center">📫 ¿Cómo contactarme?</h2>
 <hr>
-</div>
+
 
 💼 LinkedIn: Tu Perfil
 
@@ -206,7 +206,8 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 <br/>
 
 <div align="center">
+
 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-https://profile-counter.glitch.me/LACanonNieto/count.svg
+
 ⭐️ From LACanonNieto
 </div>
