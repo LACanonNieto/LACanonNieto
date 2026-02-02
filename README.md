@@ -1,25 +1,24 @@
-<div style="border: 2px solid #30363d; border-radius: 15px; padding: 30px; background-color: #161b22; margin: 20px auto; max-width: 800px;">
-  <table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <td align="left" valign="middle" style="border: none; padding-right: 30px; width: 65%;">
-        <h1 style="font-size: 42px; margin-bottom: 8px; color: #58a6ff;">
-          👋 ¡Hola! / Hi!... 
-          <br>
-          Soy Luz Adriana
-        </h1>
-        <p style="font-size: 20px; margin-top: 0; color: #c9d1d9;">
-          Full Stack Developer<br/>
-          <strong style="color: #8b949e;">Backend Specialist</strong>
-        </p>
-      </td>
-      <td align="center" valign="middle" style="border: none; width: 35%;">
-        <img src="./assets/Anime de mi.png" 
-             width="180" 
-             style="border-radius: 50%; border: 4px solid #58a6ff;"/>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td>
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%C2%A1Hola!+%2F+Hi!...;Soy+Luz+Adriana" alt="Typing SVG" />
+
+**Full Stack Developer**  
+**Backend Specialist**
+
 </div>
+
+</td>
+<td>
+
+<img align="right" alt="Coding" width="200" src="./assets/Anime de mi.png" style="border-radius: 50%;">
+
+</td>
+</tr>
+</table>
 
 <br/>
 
