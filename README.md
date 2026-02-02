@@ -1,21 +1,21 @@
-<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none; padding-right: 28px;">
-      <h1 style="font-size: 42px; margin-bottom: 8px;">
-        👋 ¡Hola! / Hi!... 
-        <br>
-        Soy Luz Adriana
-      </h1>
-      <p style="font-size: 20px; margin-top: 0;">
-        Full Stack Developer<br/>
-        <strong>Backend Specialist</strong>
-      </p>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="./assets/Anime de mi.png" width="180"/>
-    </td>
-  </tr>
-</table>
+<div style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+  <table>
+    <tr>
+      <td width="70%" valign="top">
+        <h1>👋 ¡Hola! Soy Luz Adriana Cañón</h1>
+        <h3>Full Stack Developer | Backend Specialist</h3>
+        <br/>
+      </td>
+      <td width="30%" align="center" valign="middle">
+        <img src="assets/Anime de mi.png" 
+             alt="Luz Adriana" 
+             width="200" 
+             height="200" 
+             style="border-radius: 50%; border: 3px solid #58a6ff;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
