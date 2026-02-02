@@ -20,31 +20,6 @@
 </tr>
 </table>
 
-<div align="center" style="border: 2px solid #30363d; border-radius: 15px; padding: 40px; background-color: #0d1117; max-width: 700px; margin: 20px auto;">
-  <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-    <tr>
-      <td width="50%" align="center" valign="middle" style="border: none; padding: 20px;">
-        <div style="background-color: #161b22; border-radius: 10px; padding: 30px;">
-          <h2 style="color: #58a6ff; font-size: 28px; margin: 0 0 10px 0;">
-            👋 ¡Hola! / Hi!...
-          </h2>
-          <p style="color: #c9d1d9; font-size: 16px; margin: 5px 0;">Full Stack Developer</p>
-          <p style="color: #8b949e; font-size: 16px; margin: 5px 0;"><strong>Backend Specialist</strong></p>
-        </div>
-      </td>
-      <td width="2" style="background-color: #30363d; padding: 0;"></td>
-      <td width="50%" align="center" valign="middle" style="border: none; padding: 20px;">
-        <div style="background-color: #161b22; border-radius: 10px; padding: 20px;">
-          <img src="./assets/Anime de mi.png" 
-               width="180" 
-               height="180"
-               style="border-radius: 50%;"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br/>
 
 <div align="center">
