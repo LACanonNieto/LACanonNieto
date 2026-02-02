@@ -210,10 +210,7 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 
 <br/>
 
-<div align="center" style="position: relative;">
-  <h2 style="display: inline-block;">📫 ¿Cómo contactarme?</h2>
-  <img src="./assets/a cartoon-style blac.png" alt="gato" width="120" style="position: absolute; right: 20%; top: 50%; transform: translateY(-50%);">
-</div>
+<h2 align="center">📫 ¿Cómo contactarme?</h2>
 <br/>
 
 <div align="center">
