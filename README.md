@@ -210,7 +210,10 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 
 <br/>
 
-<h2 align="center">📫 ¿Cómo contactarme?</h2>
+<div align="center" style="position: relative;">
+  <h2 style="display: inline-block;">📫 ¿Cómo contactarme?</h2>
+  <img src="./assets/a cartoon-style blac.png" alt="gato" width="120" style="position: absolute; right: 20%; top: 50%; transform: translateY(-50%);">
+</div>
 <br/>
 
 <div align="center">
@@ -241,6 +244,6 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 <div align="center">
 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-⭐️ From LACanonNieto
+Made with ❤️ by Luza
 
 </div>
