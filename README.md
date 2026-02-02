@@ -2,7 +2,9 @@
   <tr>
     <td align="center" style="border: none; padding-right: 28px;">
       <h1 style="font-size: 42px; margin-bottom: 8px;">
-        👋 ¡Hola! - Hi!... Soy Luz Adriana
+        👋 ¡Hola! / Hi!... 
+        <br>
+        Soy Luz Adriana
       </h1>
       <p style="font-size: 20px; margin-top: 0;">
         Full Stack Developer<br/>
@@ -15,15 +17,10 @@
   </tr>
 </table>
 
-<div align="center">
-👋 ¡Hola! Soy Luz Adriana Cañón
-Full Stack Developer | Backend Specialist
-</div>
-
 <br/>
 
 <div align="center">
-<h2>🛠 Sobre Mí 🛠</h2>
+<h2>🛠 Sobre Mí 🛠 About me 🛠</h2>
 </div>
 Soy desarrolladora Full Stack con especialización en Backend Development. Me apasiona crear soluciones escalables y eficientes, trabajando con tecnologías modernas para resolver problemas complejos.
 
@@ -35,6 +32,15 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 
 💡 Me encanta colaborar en proyectos innovadores
 
+I am a Full Stack Developer specialized in Backend Development. I am passionate about creating scalable and efficient solutions, working with modern technologies to solve complex problems.
+
+💼 Currently working on management and automation projects
+
+🌱 Constantly learning about software architecture and scalable APIs
+
+🎯 Specialized in backend development with a focus on performance and scalability
+
+💡 I love collaborating on innovative projects
 
 <br/>
 
