@@ -6,8 +6,8 @@ Full Stack Developer | Backend Specialist
 <br/>
 
 <div align="center">
-🚀 Sobre Mí
-
+<h2>🛠 Sobre Mí 🛠</h2>
+</div>
 Soy desarrolladora Full Stack con especialización en Backend Development. Me apasiona crear soluciones escalables y eficientes, trabajando con tecnologías modernas para resolver problemas complejos.
 
 💼 Actualmente trabajando en proyectos de gestión y automatización
@@ -18,7 +18,6 @@ Soy desarrolladora Full Stack con especialización en Backend Development. Me ap
 
 💡 Me encanta colaborar en proyectos innovadores
 
-</div>
 
 <br/>
 
