@@ -186,7 +186,9 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 <br/>
 
 <h2 align="center">📫 ¿Cómo contactarme?</h2>
+<br/>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/luzadrianacanon/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" 
        alt="linkedin" 
@@ -202,19 +204,16 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 </a>
 
 <a href="mailto:luzadca@hotmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" 
+  <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png"
        alt="outlook" 
        width="50" 
        height="50"/>
 </a>
-
-
 </div>
 
 <br/>
 
 <div align="center">
-
 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ⭐️ From LACanonNieto
