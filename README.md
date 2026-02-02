@@ -1,3 +1,20 @@
+<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding-right: 28px;">
+      <h1 style="font-size: 42px; margin-bottom: 8px;">
+        👋 ¡Hola! - Hi!... Soy Luz Adriana
+      </h1>
+      <p style="font-size: 20px; margin-top: 0;">
+        Full Stack Developer<br/>
+        <strong>Backend Specialist</strong>
+      </p>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="./assets/my-image.png" width="180"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 👋 ¡Hola! Soy Luz Adriana Cañón
 Full Stack Developer | Backend Specialist
