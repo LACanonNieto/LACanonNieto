@@ -190,13 +190,14 @@ Link: https://github.com/pi-rym/PM4BE-LACanonNieto
 <h2 align="center">📫 ¿Cómo contactarme?</h2>
 <hr>
 
-💼 LinkedIn: Tu Perfil
+<a href="https://www.linkedin.com/in/luzadrianacanon/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" 
+       alt="linkedin" 
+       width="50" 
+       height="50"/>
+</a>
 
-📧 Email: tu-email@ejemplo.com
-
-🐦 Twitter: @tu-usuario
-
-🌐 Portfolio: tu-portfolio.com
+📧 Email: luzadca@hotmail.com / luzadca@gmail.com
 
 </div>
 
