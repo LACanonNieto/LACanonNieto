@@ -20,28 +20,30 @@
 </tr>
 </table>
 
-<div align="center" style="border-top: 2px solid #30363d; border-bottom: 2px solid #30363d; padding: 30px; background-color: #161b22; margin: 20px 0;">
-  <table width="100%" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+<div align="center" style="border: 2px solid #30363d; border-radius: 15px; padding: 40px; background-color: #0d1117; max-width: 700px; margin: 20px auto;">
+  <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
-      <td align="center" width="33%" style="border: none;">
-        <h2 style="color: #ff6b9d; font-size: 36px; margin: 0;">1,234</h2>
-        <p style="color: #ff6b9d; font-size: 16px; margin: 5px 0;">Total Contributions</p>
-        <p style="color: #8b949e; font-size: 13px; margin: 0;">2024 - Present</p>
+      <td width="50%" align="center" valign="middle" style="border: none; padding: 20px;">
+        <div style="background-color: #161b22; border-radius: 10px; padding: 30px;">
+          <h2 style="color: #58a6ff; font-size: 28px; margin: 0 0 10px 0;">
+            👋 ¡Hola! / Hi!...
+          </h2>
+          <p style="color: #c9d1d9; font-size: 16px; margin: 5px 0;">Full Stack Developer</p>
+          <p style="color: #8b949e; font-size: 16px; margin: 5px 0;"><strong>Backend Specialist</strong></p>
+        </div>
       </td>
-      <td align="center" width="34%" style="border-left: 1px solid #30363d; border-right: 1px solid #30363d;">
-        <h2 style="color: #58a6ff; font-size: 48px; margin: 0;">10</h2>
-        <p style="color: #58a6ff; font-size: 16px; margin: 5px 0;">Current Streak</p>
-        <p style="color: #8b949e; font-size: 13px; margin: 0;">Jan 20 - Jan 30</p>
-      </td>
-      <td align="center" width="33%" style="border: none;">
-        <h2 style="color: #ff6b9d; font-size: 36px; margin: 0;">45</h2>
-        <p style="color: #ff6b9d; font-size: 16px; margin: 5px 0;">Longest Streak</p>
-        <p style="color: #8b949e; font-size: 13px; margin: 0;">Nov 2024</p>
+      <td width="2" style="background-color: #30363d; padding: 0;"></td>
+      <td width="50%" align="center" valign="middle" style="border: none; padding: 20px;">
+        <div style="background-color: #161b22; border-radius: 10px; padding: 20px;">
+          <img src="./assets/Anime de mi.png" 
+               width="180" 
+               height="180"
+               style="border-radius: 50%;"/>
+        </div>
       </td>
     </tr>
   </table>
 </div>
-
 
 <br/>
 
