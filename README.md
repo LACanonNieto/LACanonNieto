@@ -256,6 +256,10 @@ Link: https://github.com/pi-rym/PM2-LACanonNieto
 </div>
 
 <br/>
+<br/>
+
+<h3 align="center"> 📍 Armenia, Quindio. Colombia </h3>
+<br/>
 
 <div align="center">
 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
